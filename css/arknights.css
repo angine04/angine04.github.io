@@ -2319,6 +2319,11 @@ article .recent-excerpt p {
   pointer-events: none;
   vertical-align: middle;
 }
+body {
+  background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.1)), url("https://s1.ax1x.com/2023/01/21/pSGUgUA.png");
+  background-position: center bottom;
+  background-size: auto;
+}
 #logo {
   margin-top: 10px;
   margin-bottom: 100px;
@@ -2369,4 +2374,8 @@ input::-webkit-input-placeholder {
 }
 blockquote {
   margin: 24px 16px;
+}
+#post-content p {
+  display: flex;
+  text-align: justify;
 }
