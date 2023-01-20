@@ -2325,7 +2325,7 @@ article .recent-excerpt p {
 }
 #logo img {
   padding-top: 36px;
-  padding-bottom: 36px;
+  padding-bottom: 72px;
 }
 #Dr {
   display: none;
@@ -2345,9 +2345,25 @@ input::-webkit-input-placeholder {
 }
 #pages {
   border-color: rgba(0,0,0,0);
-  margin-top: 24px;
-  margin-bottom: 24px;
+  margin-top: 36px;
+  margin-bottom: 12px;
 }
 .footer-link {
   border-color: #3dc9c2 !important;
+}
+.recent-post {
+  border-color: #ccc;
+}
+.recent-post time {
+  color: #ccc;
+}
+@media (max-width: 768px) {
+  #logo img {
+    opacity: 0.05;
+    position: fixed;
+    bottom: -79.2px;
+    left: -5%;
+    width: 70%;
+    pointer-events: none;
+  }
 }
