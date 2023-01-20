@@ -2367,3 +2367,6 @@ input::-webkit-input-placeholder {
     pointer-events: none;
   }
 }
+blockquote {
+  margin: 24px 16px;
+}
