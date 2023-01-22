@@ -174,7 +174,7 @@ body {
   background-position: 50% 0;
   background-repeat: no-repeat;
   background-size: cover;
-  font-family: 'Microsoft YaHei', '\5b8b\4f53', sans-serif;
+  font-family: 'Noto Sans', 'Noto Sans SC', 'Noto Sans JP', 'Microsoft YaHei', '\5b8b\4f53', sans-serif;
 }
 h1,
 h2,
@@ -519,7 +519,7 @@ nav li {
   line-height: 40px;
   padding: 0 12px;
   display: inline-block;
-  padding: 4.857142857142857em 0;
+  padding: 3.4em 0;
   width: 100%;
 }
 .navBlock:active {
@@ -1252,7 +1252,7 @@ nav li {
 }
 @media (min-width: 769px) {
   .up .closed .search-popup {
-    right: 200px;
+    right: 0px;
   }
 }
 @media (min-width: 1024px) {
@@ -2342,10 +2342,7 @@ input::-webkit-input-placeholder {
   font-family: BenderLight;
   color: #aaa;
 }
-#valine input::-webkit-input-placeholder {
-  font-family: "Fira Code" "BenderLight" "Microsoft Yahei";
-}
-#valine {
+#input::-webkit-input-placeholder {
   font-family: "Fira Code" "BenderLight" "Microsoft Yahei";
 }
 #pages {
@@ -2378,6 +2375,9 @@ blockquote {
 #post-content p {
   display: flex;
   text-align: justify;
+}
+del {
+  color: #666;
 }
 :root {
 /* 字体大小 */
@@ -2447,4 +2447,23 @@ darkmode-selector {
 }
 #waline {
   margin: 36px 30px !important;
+}
+.wl-login-nick {
+  padding: 0 0;
+}
+#creative-commons-img {
+  background-color: rgba(0,0,0,0) !important;
+}
+@media (min-width: 769px) {
+  #creative-commons {
+    display: flex;
+    text-align: justify;
+  }
+}
+@media (max-width: 769px) {
+  #creative-commons {
+    margin-top: 36px;
+    display: flex;
+    text-align: center;
+  }
 }
