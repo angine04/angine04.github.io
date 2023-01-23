@@ -106,6 +106,10 @@ aside footer {
   margin: unset;
   text-align: center;
 }
+@font-face {
+  font-family: 'Noto Sans Regular';
+  src: url("/font/NotoSans.ttf");
+}
 html,
 body,
 a,
@@ -174,7 +178,7 @@ body {
   background-position: 50% 0;
   background-repeat: no-repeat;
   background-size: cover;
-  font-family: 'Noto Sans', 'Noto Sans SC', 'Noto Sans JP', 'Microsoft YaHei', '\5b8b\4f53', sans-serif;
+  font-family: 'Noto Sans', 'Noto Sans Regular', 'Noto Sans SC', 'Noto Sans JP', 'Microsoft YaHei', '\5b8b\4f53', sans-serif;
 }
 h1,
 h2,
