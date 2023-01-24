@@ -2471,3 +2471,17 @@ darkmode-selector {
     text-align: center;
   }
 }
+#text-secret,
+#text-secret a,
+#text-secret a:visited {
+  transition: color 0.13s linear;
+  color: #fff;
+  text-shadow: none;
+}
+#text-secret {
+  background-color: #fff;
+}
+#text-secret:hover,
+#text-secret:active {
+  color: #333;
+}
