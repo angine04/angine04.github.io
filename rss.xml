@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Angine&#39;s Blog</title>
+    <link>https://angine.tech/</link>
+    
+    <image>
+      <url>https://angine.tech/icon.png</url>
+      <title>Angine&#39;s Blog</title>
+      <link>https://angine.tech/</link>
+    </image>
+    
+    <atom:link href="https://angine.tech/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Sat, 21 Jan 2023 11:38:22 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>2023，与我的十九岁生日，以及人世的参差</title>
+      <link>https://angine.tech/posts/8abad4dd2eeab798/</link>
+      <guid>https://angine.tech/posts/8abad4dd2eeab798/</guid>
+      <pubDate>Fri, 20 Jan 2023 13:41:34 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;今天是1月20日，壬寅年腊月二十九，我的19岁生日。&lt;/p&gt;
+&lt;p&gt;回顾2022——我的十八岁——如今竟不知所言。太多的Unexpected</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://angine.tech/categories/Nonsense/">Nonsense</category>
+      
+      
+      <category domain="https://angine.tech/tags/%E9%97%B2%E8%B0%88/">闲谈</category>
+      
+      <category domain="https://angine.tech/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+      
+      
+      <comments>https://angine.tech/posts/8abad4dd2eeab798/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>学计算机科学，治好低血压</title>
+      <link>https://angine.tech/posts/112f05b4992a8a57/</link>
+      <guid>https://angine.tech/posts/112f05b4992a8a57/</guid>
+      <pubDate>Thu, 19 Jan 2023 13:35:55 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;经过一下午尝试——其中不乏各种令人血压高的操作——例如把整个repo清空掉然后强制覆写——总算成功应用了主题，网站也有了能看的样子了。&lt;/p&gt;
+&lt;p&gt;我自己的操作令人血压高，这我只好承认了。做好备份，然后整个儿删掉重来的模样大抵是很狼狈的吧。（但是，如果手动做备份的话，那还</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://angine.tech/categories/Nonsense/">Nonsense</category>
+      
+      
+      <category domain="https://angine.tech/tags/%E5%BB%BA%E7%AB%99/">建站</category>
+      
+      <category domain="https://angine.tech/tags/%E9%97%B2%E8%B0%88/">闲谈</category>
+      
+      
+      <comments>https://angine.tech/posts/112f05b4992a8a57/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>终于把Hexo搭起来了</title>
+      <link>https://angine.tech/posts/772d6bf83fb70058/</link>
+      <guid>https://angine.tech/posts/772d6bf83fb70058/</guid>
+      <pubDate>Wed, 18 Jan 2023 17:51:25 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;现在是19号凌晨。&lt;br&gt;之前一方面忙，另一方面又懒。将近二十天过去了，才磨磨蹭蹭地弄好。&lt;br&gt;并且，焦头烂额地捣鼓了许久，才发现原来官方有一键式的deployer！&lt;br&gt;怪我没好好看文档！&lt;br&gt;明天（20号）是我的19岁生日。或许会写点无病呻吟的东西。&lt;/p&gt;
+</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://angine.tech/categories/Nonsense/">Nonsense</category>
+      
+      
+      <category domain="https://angine.tech/tags/%E5%BB%BA%E7%AB%99/">建站</category>
+      
+      <category domain="https://angine.tech/tags/%E9%97%B2%E8%B0%88/">闲谈</category>
+      
+      
+      <comments>https://angine.tech/posts/772d6bf83fb70058/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2023，与本博客的第一篇文章</title>
+      <link>https://angine.tech/posts/e3fb662656990808/</link>
+      <guid>https://angine.tech/posts/e3fb662656990808/</guid>
+      <pubDate>Sun, 01 Jan 2023 14:00:46 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;这是本博客的第一篇博文。&lt;/p&gt;
+&lt;p&gt;昨天是2022年的最后一天。班主任召开班会说：我们要建设一个班级博客。班主任的初衷是希望我们学习一些前后端的知识，然而github</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://angine.tech/categories/Nonsense/">Nonsense</category>
+      
+      
+      <category domain="https://angine.tech/tags/%E5%BB%BA%E7%AB%99/">建站</category>
+      
+      <category domain="https://angine.tech/tags/%E9%97%B2%E8%B0%88/">闲谈</category>
+      
+      
+      <comments>https://angine.tech/posts/e3fb662656990808/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
