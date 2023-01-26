@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Angine&#39;s Blog</title>
+  <icon>https://angine.tech/icon.png</icon>
+  <subtitle>By the power of language.</subtitle>
+  <link href="https://angine.tech/atom.xml" rel="self"/>
+  
+  <link href="https://angine.tech/"/>
+  <updated>2023-01-21T11:38:22.901Z</updated>
+  <id>https://angine.tech/</id>
+  
+  <author>
+    <name>Angine</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2023，与我的十九岁生日，以及人世的参差</title>
+    <link href="https://angine.tech/posts/8abad4dd2eeab798/"/>
+    <id>https://angine.tech/posts/8abad4dd2eeab798/</id>
+    <published>2023-01-20T13:41:34.000Z</published>
+    <updated>2023-01-21T11:38:22.901Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今天是1月20日，壬寅年腊月二十九，我的19岁生日。&lt;/p&gt;
+&lt;p&gt;回顾2022——我的十八岁——如今竟不知所言。太多的Unexpected</summary>
+        
+      
+    
+    
+    
+    <category term="Nonsense" scheme="https://angine.tech/categories/Nonsense/"/>
+    
+    
+    <category term="随笔" scheme="https://angine.tech/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="闲谈" scheme="https://angine.tech/tags/%E9%97%B2%E8%B0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学计算机科学，治好低血压</title>
+    <link href="https://angine.tech/posts/112f05b4992a8a57/"/>
+    <id>https://angine.tech/posts/112f05b4992a8a57/</id>
+    <published>2023-01-19T13:35:55.000Z</published>
+    <updated>2023-01-21T11:38:22.907Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;经过一下午尝试——其中不乏各种令人血压高的操作——例如把整个repo清空掉然后强制覆写——总算成功应用了主题，网站也有了能看的样子了。&lt;/p&gt;
+&lt;p&gt;我自己的操作令人血压高，这我只好承认了。做好备份，然后整个儿删掉重来的模样大抵是很狼狈的吧。（但是，如果手动做备份的话，那还</summary>
+        
+      
+    
+    
+    
+    <category term="Nonsense" scheme="https://angine.tech/categories/Nonsense/"/>
+    
+    
+    <category term="闲谈" scheme="https://angine.tech/tags/%E9%97%B2%E8%B0%88/"/>
+    
+    <category term="建站" scheme="https://angine.tech/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>终于把Hexo搭起来了</title>
+    <link href="https://angine.tech/posts/772d6bf83fb70058/"/>
+    <id>https://angine.tech/posts/772d6bf83fb70058/</id>
+    <published>2023-01-18T17:51:25.000Z</published>
+    <updated>2023-01-21T11:38:22.911Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;现在是19号凌晨。&lt;br&gt;之前一方面忙，另一方面又懒。将近二十天过去了，才磨磨蹭蹭地弄好。&lt;br&gt;并且，焦头烂额地捣鼓了许久，才发现原来官方有一键式的deployer！&lt;br&gt;怪我没好好看文档！&lt;br&gt;明天（20号）是我的19岁生日。或许会写点无病呻吟的东西。&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="Nonsense" scheme="https://angine.tech/categories/Nonsense/"/>
+    
+    
+    <category term="闲谈" scheme="https://angine.tech/tags/%E9%97%B2%E8%B0%88/"/>
+    
+    <category term="建站" scheme="https://angine.tech/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2023，与本博客的第一篇文章</title>
+    <link href="https://angine.tech/posts/e3fb662656990808/"/>
+    <id>https://angine.tech/posts/e3fb662656990808/</id>
+    <published>2023-01-01T14:00:46.000Z</published>
+    <updated>2023-01-21T11:38:22.905Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这是本博客的第一篇博文。&lt;/p&gt;
+&lt;p&gt;昨天是2022年的最后一天。班主任召开班会说：我们要建设一个班级博客。班主任的初衷是希望我们学习一些前后端的知识，然而github</summary>
+        
+      
+    
+    
+    
+    <category term="Nonsense" scheme="https://angine.tech/categories/Nonsense/"/>
+    
+    
+    <category term="闲谈" scheme="https://angine.tech/tags/%E9%97%B2%E8%B0%88/"/>
+    
+    <category term="建站" scheme="https://angine.tech/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+  </entry>
+  
+</feed>
