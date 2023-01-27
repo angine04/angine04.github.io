@@ -58,29 +58,29 @@
 
   <url>
     <loc>https://angine.tech/</loc>
-    <lastmod>2023-01-26</lastmod>
+    <lastmod>2023-01-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://angine.tech/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2023-01-26</lastmod>
+    <loc>https://angine.tech/tags/%E5%BB%BA%E7%AB%99/</loc>
+    <lastmod>2023-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://angine.tech/tags/%E9%97%B2%E8%B0%88/</loc>
-    <lastmod>2023-01-26</lastmod>
+    <lastmod>2023-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://angine.tech/tags/%E5%BB%BA%E7%AB%99/</loc>
-    <lastmod>2023-01-26</lastmod>
+    <loc>https://angine.tech/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2023-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -89,7 +89,7 @@
   
   <url>
     <loc>https://angine.tech/categories/Nonsense/</loc>
-    <lastmod>2023-01-26</lastmod>
+    <lastmod>2023-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
