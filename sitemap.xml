@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://angine.tech/portals/index.html</loc>
+    
+    <lastmod>2023-03-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://angine.tech/posts/fbc71fcffed73353/</loc>
     
     <lastmod>2023-03-06</lastmod>
@@ -50,15 +59,6 @@
     <loc>https://angine.tech/posts/8abad4dd2eeab798/</loc>
     
     <lastmod>2023-01-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://angine.tech/portals/index.html</loc>
-    
-    <lastmod>2023-01-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
