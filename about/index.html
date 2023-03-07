@@ -7,7 +7,7 @@ if (window.localStorage.getItem('theme-mode') === 'dark') document.documentEleme
  font-family: 'JetBrains Mono';
  src: local('JetBrains Mono'), url('/font/JetBrainsMono-Regular.woff2') format('woff2');
 }</style><meta name="generator" content="Hexo 6.3.0"><link rel="alternate" href="/atom.xml" title="Angine's Blog" type="application/atom+xml">
-</head><body><main><header class="closed"><nav><div class="navBtn hide"><i class="navBtnIcon"><span class="navBtnIconBar"></span><span class="navBtnIconBar"></span><span class="navBtnIconBar"></span></i></div><div class="navItem" id="search-header"><span class="navItemTitle"><input autocomplete="off" autocorrect="off" autocapitalize="none" placeholder="Search the blog" spellcheck="false" maxlength="50" type="text" id="search-input"></span></div><div class="navItem" id="search-holder"></div><div class="search-popup"><div id="search-result"></div></div><ol class="navContent"><li class="navItem"><a class="navBlock" href="/"><span class="navItemTitle">Home</span></a></li><li class="navItem" matchdata="categories,tags"><a class="navBlock" href="/archives/"><span class="navItemTitle">Archives</span></a></li><li class="navItem"><a class="navBlock" href="/portals/"><span class="navItemTitle">Portals</span></a></li><li class="navItem"><a class="navBlock" href="/about/"><span class="navItemTitle">About</span></a></li></ol></nav></header><article><div id="post-bg"><div id="post-title"><h1>关于我</h1><div id="post-info"><span>文章发布时间: <div class="control"><time datetime="2023-01-21T18:33:30.000Z" id="date"> 2023-01-22</time></div></span><br><span>最后更新时间: <div class="control"><time datetime="2023-03-07T04:23:52.888Z" id="updated"> 2023-03-07</time></div></span><br><span>文章字数: <div class="control">824</div></span></div></div><hr><div id="post-content"><!-- If you're wandering ABOUT, try the spell openSesame -->
+</head><body><div class="loading" style="opacity: 0"><div class="loadingBar left"></div><div class="loadingBar right"></div></div><main><header class="closed"><nav><div class="navBtn hide"><i class="navBtnIcon"><span class="navBtnIconBar"></span><span class="navBtnIconBar"></span><span class="navBtnIconBar"></span></i></div><div class="navItem" id="search-header"><span class="navItemTitle"><input autocomplete="off" autocorrect="off" autocapitalize="none" placeholder="Search the blog" spellcheck="false" maxlength="50" type="text" id="search-input"></span></div><div class="navItem" id="search-holder"></div><div class="search-popup"><div id="search-result"></div></div><ol class="navContent"><li class="navItem"><a class="navBlock" href="/"><span class="navItemTitle">Home</span></a></li><li class="navItem" matchdata="categories,tags"><a class="navBlock" href="/archives/"><span class="navItemTitle">Archives</span></a></li><li class="navItem"><a class="navBlock" href="/portals/"><span class="navItemTitle">Portals</span></a></li><li class="navItem"><a class="navBlock" href="/about/"><span class="navItemTitle">About</span></a></li></ol></nav></header><article><div id="post-bg"><div id="post-title"><h1>关于我</h1><div id="post-info"><span>文章发布时间: <div class="control"><time datetime="2023-01-21T18:33:30.000Z" id="date"> 2023-01-22</time></div></span><br><span>最后更新时间: <div class="control"><time datetime="2023-03-07T04:23:52.888Z" id="updated"> 2023-03-07</time></div></span><br><span>文章字数: <div class="control">824</div></span></div></div><hr><div id="post-content"><!-- If you're wandering ABOUT, try the spell openSesame -->
 
 <h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><ul>
 <li>鄙人<strong>安擎</strong>。这个网名已经用了十几年了。</li>
@@ -75,4 +75,17 @@ window.waline = init;
      level6: '勇士',
      placeholder: 'By the power of language.',
      sofa: '空空如也'},
- });code.findCode();}</script><script src="/scripts/about.js"></script><script src="/scripts/since.js"></script><script src="/js/arknights.js"></script><script>window.addEventListener("load",() => {reset()})</script></body></html>
+ });code.findCode();}</script><script src="/scripts/about.js"></script><script src="/scripts/since.js"></script><script src="/js/arknights.js"></script><script src="/js/pjax.js"></script><script>window.addEventListener("load",() => {pjax = new Pjax({
+ cacheBust: false,
+ selectors: ['title','article','#aside-block','.pjax-js'],
+ switches: {'article': Pjax.switches.sideBySide},
+ switchesOptions: {
+   'article': {
+     classNames: {
+       remove: "pjax-out",
+       add: "pjax-in"
+     }
+   }
+ }
+});
+document.addEventListener("pjax:complete", reset);reset()})</script></body></html>
